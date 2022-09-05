@@ -1,0 +1,805 @@
+@import url("http://fonts.cdnfonts.com/css/gotham");
+
+body {
+  background: url("../img/ss2.png");
+  background-size: cover;
+  background-attachment: fixed;
+  box-sizing: content-box;
+  font-family: "Nexa", sans-serif;
+}
+#hero h1 {
+  text-shadow: 0px, 10px, 10px, black;
+  font-size: 60px;
+}
+#hero img {
+  padding-right: 5rem;
+}
+#Oprec h2 {
+  text-shadow: 10px 10px 30px rgb(0, 0, 0);
+  padding-bottom: 3rem;
+  font-weight: 900;
+  color: #fff;
+}
+.BigContainer {
+  background: url("../img/ss2.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+#event h2 {
+  text-shadow: 10px 10px 30px black;
+}
+@-webkit-keyframes AnimationName {
+  0% {
+    background-position: 67% 0%;
+  }
+  50% {
+    background-position: 34% 100%;
+  }
+  100% {
+    background-position: 67% 0%;
+  }
+}
+@-moz-keyframes AnimationName {
+  0% {
+    background-position: 67% 0%;
+  }
+  50% {
+    background-position: 34% 100%;
+  }
+  100% {
+    background-position: 67% 0%;
+  }
+}
+@keyframes AnimationName {
+  0% {
+    background-position: 67% 0%;
+  }
+  50% {
+    background-position: 34% 100%;
+  }
+  100% {
+    background-position: 67% 0%;
+  }
+}
+
+#heroKabinet {
+  width: 100%;
+  height: 100%;
+
+  overflow: hidden;
+  position: relative;
+}
+
+#heroKabinet .carousel,
+#heroKabinet .carousel-inner,
+#heroKabinet .carousel-item,
+#heroKabinet .carousel-item::before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+#heroKabinet .carousel-item {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#heroKabinet .carousel-item::before {
+  content: "";
+
+}
+
+#heroKabinet .carousel-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  top: 70px;
+  left: 50px;
+  right: 50px;
+}
+
+#heroKabinet .container {
+  text-align: center;
+}
+
+#heroKabinet h2 {
+  color: #fff;
+  margin-bottom: 20px;
+  font-size: 60px;
+  font-weight: 700;
+}
+#heroKabinet h4 {
+  color: #fff;
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+#heroKabinet p {
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+  margin: 0 auto 30px auto;
+  color: #fff;
+}
+
+#heroKabinet .btn-get-started {
+  text-decoration: none;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 14px 32px;
+  border-radius: 4px;
+  transition: 0.5s;
+  line-height: 1;
+  color: #fff;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  background: transparent;
+  outline-style: solid;
+  outline-color: rgb(247, 130, 20);
+}
+
+#heroKabinet .btn-get-started:hover {
+  background: rgb(247, 130, 20);
+}
+@media (min-width: 900px) {
+  #heroKabinet {
+    height: auto;
+  }
+  #heroKabinet .carousel-container {
+    top: 8px;
+  }
+  #heroKabinet img {
+    height: auto;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 499px) {
+    #heroKabinet {
+      width: auto;
+      height: auto;
+
+      overflow: hidden;
+      position: relative;
+    }
+    #heroKabinet img {
+      width: 500px;
+      height: auto;
+
+      overflow: hidden;
+      position: relative;
+    }
+    #heroKabinet h2 {
+      font-size: 20px;
+    }
+    #heroKabinet h4 {
+      font-size: 20px;
+    }
+  }
+@media screen and (max-width: 500px) {
+  #heroKabinet {
+    width: auto;
+    height: auto;
+
+    overflow: hidden;
+    position: relative;
+  }
+  #heroKabinet img {
+    width: 500px;
+    height: auto;
+
+    overflow: hidden;
+    position: relative;
+  }
+  #heroKabinet h2 {
+    font-size: 20px;
+  }
+  #heroKabinet h4 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  #heroKabinet h2 {
+    font-size: 28px;
+  }
+  #heroKabinet h4 {
+    font-size: 20px;
+  }
+  #heroKabinet img {
+    width: 800px;
+    height: auto;
+
+    overflow: hidden;
+    position: relative;
+  }
+
+  @media (min-width: 1024px) {
+    #heroKabinet h2 {
+      font-size: 28px;
+    }
+    #heroKabinet h4 {
+      font-size: 20px;
+    }
+    #heroKabinet img {
+      width: 100%;
+      height: auto;
+
+      overflow: hidden;
+      position: relative;
+    }
+  @media (min-width: 1024px) {
+    #heroKabinet .carousel-control-prev,
+    #heroKabinet .carousel-control-next {
+      width: 5%;
+    }
+  }
+
+  @media (max-height: 500px) {
+    #heroKabinet {
+      height: auto;
+    }
+  }
+}
+.classPres {
+  padding-left: 5rem;
+}
+.event {
+  padding-left: 5rem;
+  padding-right: 4rem;
+}
+#Navbar {
+  padding: 10px;
+}
+.Navbar {
+  background: transparent;
+
+  color: #ffffff;
+}
+.Navbar li {
+  font-size: 18px;
+}
+.Navbar .logo1 {
+  padding-right: 10px;
+}
+.hero {
+  width: 100%;
+  height: 100vh;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: 48px;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.hero h2 {
+  color: #ffffff;
+  margin: 15px 0 0 0;
+  font-size: 26px;
+}
+#MENTRI p {
+  text-align: justify;
+  font-size: 15px;
+}
+#MENDAGRI p {
+  font-size: 25px;
+}
+
+.hero .btn-get-started span {
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.hero .btn-get-started i {
+  margin-left: 5px;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+.hero .btn-get-started:hover i {
+  transform: translateX(5px);
+}
+
+.hero .hero-img {
+  text-align: right;
+}
+@media (min-width: 1024px) {
+  .hero {
+    background-attachment: fixed;
+  }
+}
+
+@media (max-width: 991px) {
+  .hero {
+    height: auto;
+    padding: 120px 0 60px 0;
+  }
+  .hero .hero-img {
+    text-align: center;
+    margin-top: 80px;
+  }
+  .hero .hero-img img {
+    width: 80%;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero {
+    text-align: center;
+  }
+  .hero h1 {
+    font-size: 32px;
+  }
+  .hero h2 {
+    font-size: 24px;
+  }
+  .hero .hero-img img {
+    width: 100%;
+  }
+}
+.container1 .container {
+  padding: 20px;
+}
+#UKM {
+  margin-top: 8em;
+  padding-bottom: 8rem;
+}
+.info {
+  margin-top: 8rem;
+}
+
+.infologo img {
+  width: 300px;
+}
+#logoMentri {
+  padding-left: 120px;
+  padding-top: 35px;
+}
+#Oprec {
+  padding-bottom: 5rem;
+}
+#Oprec .btn {
+  padding-top: 5px;
+  padding-bottom: 10px;
+  border-radius: 4px;
+  padding: 4px 30px 6px 30px;
+  border: 2px solid #ff8400;
+  color: #000000;
+  font-weight: 500;
+  font-size: 30px;
+}
+#Oprec .btn:hover {
+  background: rgb(247, 130, 20);
+}
+
+.featured img {
+  border-radius: 0;
+}
+
+.featured .card {
+  border: 0;
+  text-align: center;
+  background: none;
+}
+
+.featured .card-body {
+  -moz-text-align-last: center;
+  text-align-last: center;
+}
+
+.featured .card-title a {
+  font-weight: 600;
+  font-size: 18px;
+  color: #00aaff;
+}
+
+.featured .btn {
+  border-radius: 4px;
+  padding: 4px 30px 6px 30px;
+  border: 2px solid rgb(247, 130, 20);
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.featured .btn:hover {
+  background-color: rgb(247, 130, 20);
+  color: #fff;
+}
+.kenali {
+  padding-top: 15rem;
+}
+.kenali h2 {
+  color: #ffffff;
+}
+.kenali p {
+  color: #ffffff;
+}
+#sesneg{
+    margin-bottom: 200px;
+}
+#keuangan{
+    margin-bottom: 200px;
+}
+#kominfo{
+    margin-bottom: 200px;
+}
+.container3 {
+  padding-bottom: 5rem;
+}
+.mendagri h4 {
+  color: white;
+}
+.mendagri p {
+  color: white;
+}
+.mendagri a {
+  color: white;
+}
+#MENDAGRI {
+  padding: auto;
+  padding-top: 15rem;
+  padding-bottom: 10rem;
+}
+.mendagri img {
+  margin-left: 10rem;
+  width: 24rem;
+}
+.mendagri p {
+  text-align: left;
+}
+.ProgramKerja {
+  padding-bottom: 5rem;
+  padding-top: 5rem;
+}
+.ProgramKerja h2 {
+  color: white;
+}
+.ProgramKerja h3 {
+  color: #000000;
+}
+.ProgramKerja p {
+  font-size: 30px;
+  text-align: justify;
+  text-indent: 5rem;
+}
+.program {
+  padding-top: 3rem;
+}
+#Program {
+  margin-top: 5rem;
+}
+.containerVisi {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.containerVisi p {
+  text-align: left;
+  font-size: large;
+}
+.containerMisi {
+  padding-top: 10rem;
+}
+.containerMisi h4 {
+  font-size: x-large;
+}
+/* style misi*/
+.featured-services .icon-box {
+  padding: 30px;
+  position: relative;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
+  transition: all 0.3s ease-in-out;
+  border-radius: 8px;
+  z-index: 1;
+}
+
+.featured-services .icon-box::before {
+  content: "";
+  position: absolute;
+  background: #cbe0fb;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  top: 100%;
+  transition: all 0.3s;
+  z-index: -1;
+}
+
+.featured-services .icon-box:hover::before {
+  background: #106eea;
+  top: 0;
+  border-radius: 0px;
+}
+
+.featured-services .icon i {
+  font-size: 48px;
+  line-height: 1;
+  color: #f58207;
+  transition: all 0.3s ease-in-out;
+}
+
+.featured-services .title {
+  font-weight: 700;
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+.featured-services .title a {
+  color: #111;
+}
+
+.featured-services .description {
+  font-size: 15px;
+  line-height: 28px;
+  margin-bottom: 0;
+}
+
+.featured-services .icon-box:hover .title a,
+.featured-services .icon-box:hover .description {
+  color: #fff;
+}
+
+.featured-services .icon-box:hover .icon i {
+  color: #fff;
+}
+#barisMisi1 {
+  padding-top: 5rem;
+}
+#barisMisi2 {
+  padding-top: 2rem;
+}
+.containerHeader {
+  padding: 5rem;
+}
+
+.Profile {
+  color: white;
+  padding-top: 10rem;
+}
+#footer {
+  background-color: rgb(96, 84, 84);
+  color: #fff;
+  font-size: 14px;
+  position: relative;
+}
+
+#footer::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: rgba(1, 11, 16, 0.6);
+  z-index: 1;
+}
+
+#footer .footer-top {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: 80px 0;
+}
+
+#footer .footer-top h3 {
+  font-size: 36px;
+  font-weight: 700;
+  color: #fff;
+  position: relative;
+  font-family: "Poppins", sans-serif;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+#footer .footer-top p {
+  font-size: 15;
+  font-style: italic;
+  margin: 30px 0 0 0;
+  padding: 0;
+}
+
+#footer .footer-top .footer-newsletter {
+  text-align: center;
+  font-size: 15px;
+  margin-top: 30px;
+}
+#footer .footer-top .social-links {
+  margin-top: 30px;
+}
+
+#footer .footer-top .social-links a {
+  font-size: 18px;
+  display: inline-block;
+  background: #000000;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+
+#footer .footer-top .social-links a:hover {
+  background: #649aac;
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer .footer-bottom {
+  z-index: 2;
+  position: relative;
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+#footer .credits {
+  text-align: center;
+  font-size: 13px;
+}
+.containerMentri {
+  padding-top: 5 rem;
+}
+#profileMentri {
+  background-color: #f1f1f1;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.kartuProfile {
+  padding-top: 5rem;
+}
+.containerGallery {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+.containerGallery h2 {
+  color: white;
+  font-size: 10vh;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+.containerGallery .item {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+@media screen and (max-width: 992px) {
+  .carousel {
+    width: 100%;
+    height: 100%;
+  }
+}
+@media screen and (max-width: 768px) {
+  #Oprec {
+    width: 100%;
+    height: 100%;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .container2 .containerMentri .containerVisi {
+    width: 100%;
+    padding: 0;
+  }
+}
+@media screen and (max-width: 992px) {
+  .kartuProfile {
+    padding-left: 50px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .kartuProfile {
+    padding-left: 50px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .kartuProfile {
+    padding-left: 50px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .classPres {
+    padding-left: 50px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .classPres {
+    padding-left: 50px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .classPres {
+    padding-left: 50px;
+  }
+}
+@media screen and (max-width: 992px) {
+  #MENDAGRI img {
+    padding-top: 60px;
+  }
+}
+@media screen and (max-width: 768px) {
+  #MENDAGRI img {
+    margin: 0;
+    padding-top: 60px;
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  #MENDAGRI img {
+    padding-top: 60px;
+  }
+}
+@media screen and (max-width: 768px) {
+  #hero img {
+    padding-left: 5rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  #MENDAGRI p {
+    font-size: 15px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .ProgramKerja p {
+    font-size: 17px;
+  }
+}}
+/* Halaman register */
+.Esay{
+    margin-top: 50px;
+
+
+}
+.ketentuanEsay h4{
+    color: red;
+    font-weight: 700;
+}
+.ketentuanEsay{
+
+
+    background-color: #c8c7c9;
+    border-radius: 25px;
+    padding-top: 30px;
+    margin: 20px;
+
+
+
+}
+.ketentuanEsay li{
+    text-align: justify;
+    font-weight: 600;
+
+
+}
+.isiEsay{
+    background-color: #c8c7c9;
+    border-radius: 25px;
+    padding-top: 30px;
+    margin: 20px;
+}
+.isiEsay h4{
+    color: red;
+    font-weight: 700;
+}
+.isiEsay li{
+    text-align: justify;
+    font-weight: 600;
+
+
+}
+
+
