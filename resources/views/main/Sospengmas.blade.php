@@ -221,46 +221,8 @@
             </div>
           </div>
           <div class="accordion" id="accordionExample">
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="headingOne">
-                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                  <h3 ><strong>BEM Ubaya Bagikan Covid Box Bagi Mahasiswa Yang Tak Pulang Kampung </strong></h3>
-                </button>
-              </h2>
-              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  <p style="color: #000000;">
-                    Badan Eksekutif Mahasiswa Universitas Surabaya (BEMUS) turut mengambil andil dalam mengurangi dampak multi-sektoral akibat jawabannya Covid-19. Sore, BEMUS membagikan berkah Ramadhan kepada mahasiswa yang menjalankan bulan puasa dan masih indekos sekitar kampus.
-                  </p>
-                  <p style="color: #000000;">
-                    Kegiatan ini dinamakan “Mahasiswa Berbagi: Peduli Kantin dan Berbagi Berkah Ramadhan” dengan memberdayakan kantin kampus dan bantuan dari fakultas selama satu minggu. Perwakilan BEM bersama beberapa aktivis mahasiswa dari berbagai agama secara bergiliran membagikan paket berkah Ramadhan.Pembagian paket berupa makanan dan minuman untuk berbuka puasa dan Covid box kepada mahasiswa yang indekos.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="headingTwo">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  <h3 ><strong>Sahur on the Road</strong></h3>
-                </button>
-              </h2>
-              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  <p style="color: #000000;">
-                    kegiatan Sahur On The Road yang diselenggarakan oleh Kementerian Sosial dan Pengabdian Kepada Masyarakat BEM Universitas Surabaya dan diikuti sebanyak kurang lebih 50 volunteer yang berasal dari mahasiswa Universitas Surabaya.
-                  </p>
-                  <p style="color: #000000;">
-                    Adapun hasil dari penggalangan yang kami lakukan terkumpul sebesar Rp3.804.000 dan telah direalisasikan dalam bentuk bantuan nasi yang dibagikan kepada masyarakat Surabaya yang kurang mampu.
 
-                    Total nasi yang bisa disumbangkan sebanyak 415 bungkus nasi dan 4 kardus aqua gelas.
 
-                    Nasi dibagikan pada hari minggu, tanggal 12 dan 19 Mei 2019 dan dibagikan kepada masyarakat di seluruh bagian kota Surabaya.
-                    Semoga apa yang kita lakukan ini bisa bermanfaat untuk mereka. Salam Kemanusiaan!!
-
-                  </p>
-                </div>
-              </div>
-            </div>
             <div class="accordion-item">
               <h2 class="accordion-header" id="headingThree">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -279,28 +241,7 @@
                 </div>
               </div>
             </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="headingFour">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                  <h3 ><strong>Donasi Banten</strong></h3>
-                </button>
-              </h2>
-              <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  <p style="color: #000000;">
-                    Daerah Banten dan Lampung Selatan telah mengalami musibah Tsunami akibat letusan yang disebabkan oleh Anak Gunung Krakatau Desember 2018 lalu. Per tanggal 29 Desember 2018, jumlah korban mencapai 431 orang, 7.200 orang luka-luka, 15 orang dinyatakan hilang, dan 46.646 orang mengungsi.
 
-                  </p>
-                  <p style="color: #000000;">
-                    Sebagai Civitas Universitas Surabaya kami tidak bisa tinggal diam, dibantu dengan organisasi mahasiswa UBAYA yang meliputi Unit Kegiatan Mahasiswa (UKM), BEM Fakultas dan Politeknik UBAYA, hingga tingkat Kelompok Minat Mahasiswa dan Kelompok Studi Mahasiswa (KMM & KSM) tingkat fakultas pun turut membantu dalam pengadaan bantuan kali ini. Tidak hanya Civitas UBAYA saja, terdapat beberapa donatur dari pihak eksternal UBAYA yang memberikan bantuan secara langsung kepada kami dan melalui platform kitabisa.com.Bentuk bantuan tersebut ada berupa uang tunai dan barang kebutuhan pokok. Bantuan berupa dana telah kami gunakan untuk membeli kebutuhan pokok yang sangat dibuthukan oleh korban bencana pada saat itu. Berikut adalah video persembahan sekaligus ucapan terima kasih dari kami karena telah memperlancar semua kegiatan penggalangan dana untuk bencana kali ini.
-
-                  </p>
-                  <p style="color: #000000;">
-                    Kegiatan ini juga tidak dapat terlaksana tanpa bantuan kawan-kawan dari Relawan Peduli Bencana Indonesia (RPBI). Semoga dapat memperkuat silahturahmi sebagai insan manusia yang berjiwa Sosial sekaligus membantu saudara kita yang lain yang membutuhkan.
-                  </p>
-                </div>
-              </div>
-            </div>
             <div class="accordion-item">
               <h2 class="accordion-header" id="headingFive">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
@@ -328,18 +269,18 @@
       <div class="containerGallery">
         <h2>Gallery</h2>
         <div class="owl-carousel owl-theme">
-          <div class="item">
+          {{-- <div class="item">
             <img src="img/Sahur1.png" alt="" />
             <figcaption class="figure-caption text-white">Sahur On The Road</figcaption>
 
-          </div>
+          </div> --}}
           <div class="item">
-            <img src="img/Suar1.png" alt="" />
+            <img src="img/suar1.jpg" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar2.png" alt="" />
+            <img src="img/suar2.jpg" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
@@ -421,6 +362,21 @@
           <div class="item">
             <img src="img/Suar18.png" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
+
+          </div>
+          <div class="item">
+            <img src="img/earth1.jpg" alt="" />
+            <figcaption class="figure-caption text-white">Earth Day</figcaption>
+
+          </div>
+          <div class="item">
+            <img src="img/earth2.jpg" alt="" />
+            <figcaption class="figure-caption text-white">Earth Day</figcaption>
+
+          </div>
+          <div class="item">
+            <img src="img/earth3.jpg" alt="" />
+            <figcaption class="figure-caption text-white">Earth Day</figcaption>
 
           </div>
 

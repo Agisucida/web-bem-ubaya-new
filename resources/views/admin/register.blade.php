@@ -49,19 +49,7 @@
 <body>
     <div class="sticky-md-top">
         <div class="Navbar"></div>
-        <div class="mb-2">
-            @if (Session::get('SUKSES'))
-                <div class="alert alert-success">
-                    {{ Session::get('SUKSES') }}
-                </div>
-            @endif
 
-            @if (Session::get('GAGAL'))
-                <div class="alert alert-danger">
-                    {{ Session::get('GAGAL') }}
-                </div>
-            @endif
-        </div>
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div id="Navbar" class="container sticky-md-top">
                 <a><img src="img/logoBEM.png" alt="" width="30" style="margin-right: 10px;" />BEM
@@ -195,7 +183,7 @@
                         </span>
                     </div>
                     <div class="form-group">
-                        <label for="noHP">Nomor Handphone (WhatsApp)</label>
+                        <label for="noHP">Nomor Handphone(WhatsApp)</label>
                         <input class="form-control input-sm" type="text" id="noHP" name="noHP" required
                             value="{{ old('name') }}"><br />
                         <span style="color:red">
@@ -226,8 +214,8 @@
                         </span>
                     </div>
                     <div class="form-group">
-                        <label for="alasan1">Alasan Memilih Pilihan 1 (Kolom Wajib Diisi!)</label>
-                        <textarea class="form-control input-sm" type="text" id="alasan1" name="alasan1" required value="{{ old('name') }}"></textarea><br />
+                        <label for="alasan1">Alasan Memilih Pilihan 1</label>
+                        <textarea class="form-control input-sm" type="text" id="alasan1" name="alasan1" required value="{{ old('name') }}">Ketikan sesuatu...</textarea><br />
                         <span style="color:red">
                             @error('name')
                                 {{ $message }}
@@ -256,18 +244,19 @@
                         </span>
                     </div>
                     <div class="form-group">
-                        <label for="alasan2">Alasan Memilih Pilihan 2 (Kolom Wajib Diisi!)</label>
-                        <textarea class="form-control input-sm" type="text" id="alasan2" name="alasan2" required value="{{ old('name') }}"></textarea><br />
+                        <label for="alasan2">Alasan Memilih Pilihan 2</label>
+                        <textarea class="form-control input-sm" type="text" id="alasan2" name="alasan2" required value="{{ old('name') }}">Ketikan sesuatu...</textarea><br />
                         <span style="color:red">
                             @error('name')
                                 {{ $message }}
                             @enderror
                         </span>
                     </div>
-                    <label for="jadwal1">Pilih Jadwal Interview (pilihlah jadwal yang kalian bisa , jika hanya memilih 2 atau lebih maka pilihan lainnya di pilih yang kosong !)</label>
+                    <label for="jadwal1">Pilih Jadwal Interview (pilihlah jadwal yang kalian bisa , jika hanya memilih 1 atau lebih maka pilihan lainnya di pilih yang kosong !.
+                        Silahkan sesuaikan dengan jadwal kalian masing".)</label>
                     <div class="form-group">
-                        <label for="jadwal1">Pilih Jadwal Interview</label>
-                        <select id="jadwal1" name="jadwal1">
+                        <label for="jadwal1">Jadwal Interview 1</label>
+                        <select id="jadwal1" name="jadwal1" required>
                             <option></option>
                             <option>Senin, 19 September 2022 (18.00 - 19.00)</option>
                             <option>Senin, 19 September 2022 (19.00 - 20.00)</option>
@@ -280,7 +269,7 @@
                             <option>Rabu, 21 September 2022 (20.00 - 21.00)</option>
                         </select>
                         <br>
-                        <label for="jadwal2">Pilih Jadwal Interview</label>
+                        <label for="jadwal2">Jadwal Interview 2</label>
                         <select id="jadwal2" name="jadwal2">
                             <option></option>
                             <option>Senin, 19 September 2022 (18.00 - 19.00)</option>
@@ -294,7 +283,7 @@
                             <option>Rabu, 21 September 2022 (20.00 - 21.00)</option>
                         </select>
                         <br>
-                        <label for="jadwal3">Pilih Jadwal Interview</label>
+                        <label for="jadwal3">Jadwal Interview 3</label>
                         <select id="jadwal3" name="jadwal3">
                             <option></option>
                             <option>Senin, 19 September 2022 (18.00 - 19.00)</option>
@@ -308,7 +297,7 @@
                             <option>Rabu, 21 September 2022 (20.00 - 21.00)</option>
                         </select>
                         <br>
-                        <label for="jadwal4">Pilih Jadwal Interview</label>
+                        <label for="jadwal4">Jadwal Interview 4</label>
                         <select id="jadwal4" name="jadwal4">
                             <option></option>
                             <option>Senin, 19 September 2022 (18.00 - 19.00)</option>
@@ -322,7 +311,7 @@
                             <option>Rabu, 21 September 2022 (20.00 - 21.00)</option>
                         </select>
                         <br>
-                        <label for="jadwal5">Pilih Jadwal Interview</label>
+                        <label for="jadwal5">Jadwal Interview 5</label>
                         <select id="jadwal5" name="jadwal5">
                             <option></option>
                             <option>Senin, 19 September 2022 (18.00 - 19.00)</option>
@@ -336,7 +325,7 @@
                             <option>Rabu, 21 September 2022 (20.00 - 21.00)</option>
                         </select>
                         <br>
-                        <label for="jadwal6">Pilih Jadwal Interview</label>
+                        <label for="jadwal6">Jadwal Interview 6</label>
                         <select id="jadwal6" name="jadwal6">
                             <option></option>
                             <option>Senin, 19 September 2022 (18.00 - 19.00)</option>
@@ -350,7 +339,7 @@
                             <option>Rabu, 21 September 2022 (20.00 - 21.00)</option>
                         </select>
                         <br>
-                        <label for="jadwal7">Pilih Jadwal Interview</label>
+                        <label for="jadwal7">Jadwal Interview 7</label>
                         <select id="jadwal7" name="jadwal7">
                             <option></option>
                             <option>Senin, 19 September 2022 (18.00 - 19.00)</option>
@@ -364,7 +353,7 @@
                             <option>Rabu, 21 September 2022 (20.00 - 21.00)</option>
                         </select>
                         <br>
-                        <label for="jadwal8">Pilih Jadwal Interview</label>
+                        <label for="jadwal8">Jadwal Interview 8</label>
                         <select id="jadwal8" name="jadwal8">
                             <option></option>
                             <option>Senin, 19 September 2022 (18.00 - 19.00)</option>
@@ -378,7 +367,7 @@
                             <option>Rabu, 21 September 2022 (20.00 - 21.00)</option>
                         </select>
                         <br>
-                        <label for="jadwal9">Pilih Jadwal Interview</label>
+                        <label for="jadwal9">Jadwal Interview 9</label>
                         <select id="jadwal9" name="jadwal9">
                             <option></option>
                             <option>Senin, 19 September 2022 (18.00 - 19.00)</option>

@@ -442,6 +442,42 @@
             <img src="img/Stuban12.png" alt="" />
             <figcaption class="figure-caption text-white">Studi Banding</figcaption>
           </div>
+          <div class="item">
+            <img src="img/kunjungan kerja UPH1.png" alt="" />
+            <figcaption class="figure-caption text-white">Kunjungan Kerja UPH</figcaption>
+          </div>
+          <div class="item">
+            <img src="img/kunjungan kerja UPH2.png" alt="" />
+            <figcaption class="figure-caption text-white">Kunjungan Kerja UPH</figcaption>
+          </div>
+          <div class="item">
+            <img src="img/kunjungan kerja UPH3.png" alt="" />
+            <figcaption class="figure-caption text-white">Kunjungan Kerja UPH</figcaption>
+          </div>
+          <div class="item">
+            <img src="img/kunjungan kerja UPH4.png" alt="" />
+            <figcaption class="figure-caption text-white">Kunjungan Kerja UPH</figcaption>
+          </div>
+          <div class="item">
+            <img src="img/Sepik2022(1).jpg" alt="" />
+            <figcaption class="figure-caption text-white">Sepik 2022</figcaption>
+          </div>
+          <div class="item">
+            <img src="img/Sepik2022(2).jpg" alt="" />
+            <figcaption class="figure-caption text-white">Sepik 2022</figcaption>
+          </div>
+          <div class="item">
+            <img src="img/ufo 1.png" alt="" />
+            <figcaption class="figure-caption text-white">Ufo 2022</figcaption>
+          </div>
+          <div class="item">
+            <img src="img/ufo 2.png" alt="" />
+            <figcaption class="figure-caption text-white">Ufo 2022</figcaption>
+          </div>
+          <div class="item">
+            <img src="img/ufo 3.png" alt="" />
+            <figcaption class="figure-caption text-white">Ufo 2022</figcaption>
+          </div>
 
 
 

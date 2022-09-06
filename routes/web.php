@@ -65,7 +65,7 @@ Route::get('/login', function () {
 Route::get('/forgetpassword', function () {
     return view('admin.forgetpassword');
 });
-Route::get('/register', function () {
+Route::get('/registeradmin11990088uuzzjjkkikksiakwopdkdjejz-sjas', function () {
     return view('admin.registerAdmin');
 });
 Route::get('/admin', function () {

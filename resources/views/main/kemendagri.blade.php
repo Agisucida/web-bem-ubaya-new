@@ -232,20 +232,22 @@
               </div>
             </div>
             <div class="accordion-item">
-              <h2 class="accordion-header" id="headingTwo">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                  <h3 ><strong>TTS:Dugnadur</strong></h3>
-                </button>
-              </h2>
-              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                <div class="accordion-body">
-                  <p style="color: #000000;">
-                    Acara talkshow yang diselenggarakan oleh Kementerian Dalam Negeri BEMUS yang bertujuan untuk sosialisasi mengenai organisasi mahasiswa yang ada di Universitas Surabaya. Acara ini juga sebagai program kerja untuk mengakrabkan satu ormawa dengan ormawa  yang lain-nya.
-                  </p>
+                <h2 class="accordion-header" id="headingThree">
+                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseTwo">
+                    <h3><strong>The Enchanted Ceremony</strong></h3>
+                  </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                  <div class="accordion-body">
+                    <p style="color: #000000;">
+                        The Enchanted Ceremony (ECC) merupakan acara gabungan antara malam keakraban dan malam apresiasi yang diselenggarakan oleh Kementerian Seni Budaya dan Kementerian Dalam Negeri Badan Eksekutif Mahasiswa Universitas Surabaya.
+                        The Enchanted Ceremony (ECC) merupakan bentuk perayaan untuk menutup satu periode yang telah berjalan. Acara ini dikemas dengan tujuan untuk mempererat hubungan antar Ormawa di Universitas Surabaya (UBAYA) serta mengapresiasi
+                         kerja keras setiap pengunjung acara yang telah berusaha mengharumkan nama UBAYA.
+                    </p>
 
+                  </div>
                 </div>
               </div>
-            </div>
           </div>
         </div>
       </section>
@@ -257,11 +259,82 @@
       <div class="containerGallery">
         <h2>Gallery</h2>
         <div class="owl-carousel owl-theme">
-          <div class="item"><img src="img/BIRU.png" alt="" /></div>
-          <div class="item"><img src="img/OREN.png" alt="" /></div>
-          <div class="item"><img src="img/IJO TUA.png" alt="" /></div>
-          <div class="item"><img src="img/IJO MUDA.png" alt="" /></div>
-          <div class="item"><img src="img/UNGU.png "alt="" /></div>
+            <div class="item">
+                <img src="img/ecc1.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc2.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc3.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc4.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc5.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc6.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc7.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc8.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc9.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc10.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc11.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc12.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc13.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc15.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc14.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc16.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc17.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc18.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
+              <div class="item">
+                <img src="img/ecc19.jpg" alt="" />
+                <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
+              </div>
 
 
         </div>

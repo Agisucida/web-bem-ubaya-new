@@ -21,7 +21,7 @@ class LoginController extends Controller
             return redirect()->intended('/admin');
         }
         return back()->withErrors([
-                 'nrp' => 'The provided credentials do not match our records.',
+                 'nrp' => 'Username Atau Password Salah Guys ;D',
             ]);
 
         // if (Auth::attempt($credentials)) {

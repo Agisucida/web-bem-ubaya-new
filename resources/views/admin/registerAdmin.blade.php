@@ -74,10 +74,10 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a class="nav-link " aria-current="page" href="index.html">Home</a>
+                            <a class="nav-link " aria-current="page" href="/">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="index.html">Event Terkini</a>
+                            <a class="nav-link" href="/">Event Terkini</a>
                         </li>
                         <li class="nav-item dropdown active">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -98,7 +98,7 @@
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link" href="kabinet.html">Tentang Kabinet</a>
+                            <a class="nav-link" href="/kabinet">Tentang Kabinet</a>
                     </ul>
                     </li>
                     </ul>
@@ -112,7 +112,7 @@
     <div class="container-md register">
         <div id="REGISTER" class="container-md">
             <div class="row text-center">
-                <h2 style="color: white;"><strong>DAFTAR BEM-US!</strong></h2>
+                <h2 style="color: white;"><strong>DAFTAR ADMIN!</strong></h2>
             </div>
             <div class="row justify-content-md-start">
 

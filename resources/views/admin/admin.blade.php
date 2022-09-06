@@ -87,7 +87,7 @@
                   </ul>
                   <ul class="navbar-nav">
                     <li class= "nav-item">
-                        <a href="/register" class="nav-link">Daftar BEM-US!</a>
+                        <a href="/registeradmin11990088uuzzjjkkikksiakwopdkdjejz-sjas" class="nav-link">Daftar Admin!</a>
                     </li>
                   </ul>
 
@@ -217,12 +217,8 @@
               <td>{{ $staff['id'] }}</td>
               <td>{{ $staff['nama'] }}</td>
               <td>{{ $staff['nrp'] }}</td>
-
               <td>{{ $staff['pilihan1'] }}</td>
-
               <td>{{ $staff['pilihan2'] }}</td>
-
-
               <td>{{ $staff['jadwal1'] }}</td>
               <td>{{ $staff['jadwal2'] }}</td>
               <td>{{ $staff['jadwal3'] }}</td>
