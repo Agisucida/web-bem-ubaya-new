@@ -112,7 +112,7 @@
                     <div class="form-group">
                         <div class = "row text-center">
                       <label for="password" class="row text-center">Password</label>
-                      <input class="form-control input-sm" type="text" id="password" name="password" value="{{ old('password') }}"><br/>
+                      <input class="form-control input-sm" type="password" id="password" name="password" value="{{ old('password') }}"><br/>
                       <span style="color:red">@error('password'){{ $message }} @enderror</span>
                         </div>
                     </div>
