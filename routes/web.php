@@ -3,6 +3,7 @@
 
 use App\Http\Controllers\UserAuth;
 use App\Http\Controllers\LaravelCrud;
+use App\Http\Controllers\LoginController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -79,4 +80,4 @@ Route::post('daftar', [LaravelCrud::class, 'daftar_action'])->name('daftar.actio
 Route::get('daftarAdmin', [LaravelCrud::class, 'daftarAdmin'])->name('daftarAdmin');
 Route::post('daftarAdmin', [LaravelCrud::class, 'daftarAdmin_action'])->name('daftarAdmin.action');
 Route::get('login', [LaravelCrud::class, 'login'])->name('login');
-Route::post('loginAction', [LaravelCrud::class, 'login_action'])->name('login_action');
+Route::post('loginAction', [LoginController::class, 'authenticate'])->name('loginaction');
