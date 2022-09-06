@@ -195,7 +195,7 @@
                         </span>
                     </div>
                     <div class="form-group">
-                        <label for="noHP">Nomor Handphone(WhatsApp)</label>
+                        <label for="noHP">Nomor Handphone (WhatsApp)</label>
                         <input class="form-control input-sm" type="text" id="noHP" name="noHP" required
                             value="{{ old('name') }}"><br />
                         <span style="color:red">
@@ -226,8 +226,8 @@
                         </span>
                     </div>
                     <div class="form-group">
-                        <label for="alasan1">Alasan Memilih Pilihan 1</label>
-                        <textarea class="form-control input-sm" type="text" id="alasan1" name="alasan1" required value="{{ old('name') }}">Ketikan sesuatu...</textarea><br />
+                        <label for="alasan1">Alasan Memilih Pilihan 1 (Kolom Wajib Diisi!)</label>
+                        <textarea class="form-control input-sm" type="text" id="alasan1" name="alasan1" required value="{{ old('name') }}"></textarea><br />
                         <span style="color:red">
                             @error('name')
                                 {{ $message }}
@@ -256,15 +256,15 @@
                         </span>
                     </div>
                     <div class="form-group">
-                        <label for="alasan2">Alasan Memilih Pilihan 2</label>
-                        <textarea class="form-control input-sm" type="text" id="alasan2" name="alasan2" required value="{{ old('name') }}">Ketikan sesuatu...</textarea><br />
+                        <label for="alasan2">Alasan Memilih Pilihan 2 (Kolom Wajib Diisi!)</label>
+                        <textarea class="form-control input-sm" type="text" id="alasan2" name="alasan2" required value="{{ old('name') }}"></textarea><br />
                         <span style="color:red">
                             @error('name')
                                 {{ $message }}
                             @enderror
                         </span>
                     </div>
-                    <label for="jadwal1">Pilih Jadwal Interview (pilihlah jadwal yang kalian bisa , jika hanya memilih 2 atau lebih maka pilihan lainnya di pilih yang kosong !.)</label>
+                    <label for="jadwal1">Pilih Jadwal Interview (pilihlah jadwal yang kalian bisa , jika hanya memilih 2 atau lebih maka pilihan lainnya di pilih yang kosong !)</label>
                     <div class="form-group">
                         <label for="jadwal1">Pilih Jadwal Interview</label>
                         <select id="jadwal1" name="jadwal1">

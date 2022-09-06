@@ -19,9 +19,9 @@ return new class extends Migration
             $table->string('nrp');
             $table->string('fakultas');
             $table->string('pilihan1');
-            $table->string('alasan1');
+            $table->longText('alasan1');
             $table->string('pilihan2');
-            $table->string('alasan2');
+            $table->longText('alasan2');
             $table->string('idline');
             $table->string('nohp');
             $table->string('cv');
