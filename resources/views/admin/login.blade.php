@@ -34,7 +34,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                      <a class="nav-link active" aria-current="page" href="/index">Home</a>
+                      <a class="nav-link active" aria-current="page" href="/">Home</a>
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" href="#event">Event Terkini</a>
@@ -56,23 +56,9 @@
                         <li><a class="dropdown-item" href="/nasionalisme">Kementerian Nasionalisme</a></li>
                       </ul>
                     </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="#home">UEL S2</a>
-                    </li>
+
                     <li class="nav-item dropdown">
                       <a class="nav-link" href="/kabinet">Tentang Kabinet</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Contact</a>
-                      <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#"></a></li>
-                        <li><a class="dropdown-item" href="index.html">E-Mail</a></li>
-                        <li><a class="dropdown-item" href="https://lin.ee/ILm31at">Line</a></li>
-                        <li><a class="dropdown-item" href="https://instagram.com/bem_ubaya?utm_medium=copy_link">Instagram</a></li>
-                        <li><a class="dropdown-item" href="https://www.youtube.com/channel/UCNvPUz49JsMyQheWF7Xgr6w"
-                          >Youtube</a></li>
-
-                      </ul>
                     </li>
                   </ul>
                   <ul class="navbar-nav">
@@ -88,6 +74,19 @@
         <!--Akhir Navbar-->
         <!--Login-->
         <div class="container-md login">
+            <div class="mb-2">
+                @if (Session::get('SUKSES'))
+                    <div class="alert alert-success">
+                        {{ Session::get('SUKSES') }}
+                    </div>
+                @endif
+
+                @if (session()->has('login nerror'))
+                    <div class="alert alert-danger">
+                        {{ session('login error') }}
+                    </div>
+                @endif
+            </div>
             <div id="LOGIN" class="container-md">
               <div class="row text-center">
                 <h2 style="color: white;"><strong>LOGIN ADMIN</strong></h2>
@@ -101,7 +100,7 @@
                 <p class="alert alert-danger">{{ $err }}</p>
                 @endforeach
                 @endif
-              <form action="{{ route('login.action') }}" method="post">
+              <form action="loginAction" method="post">
                     @csrf
                     <div class="form-group">
                         <div class= "row text-center">
@@ -123,7 +122,7 @@
                     <div class="row text-center">
                         <a href=/forgetpassword>Lupa Password?</a>
                       </div>
-                    
+
                   </form>
                 </div>
               </div>

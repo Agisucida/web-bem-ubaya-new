@@ -74,10 +74,10 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a class="nav-link " aria-current="page" href="index.html">Home</a>
+                            <a class="nav-link " aria-current="page" href="/">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="index.html">Event Terkini</a>
+                            <a class="nav-link" href="/">Event Terkini</a>
                         </li>
                         <li class="nav-item dropdown active">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -98,7 +98,7 @@
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link" href="kabinet.html">Tentang Kabinet</a>
+                            <a class="nav-link" href="/kabinet">Tentang Kabinet</a>
                     </ul>
                     </li>
                     </ul>
@@ -114,10 +114,10 @@
             <div class="row text-center">
                 <h2 style="color: white;"><strong>DAFTAR BEM-US!</strong></h2>
             </div>
-            <div class="container Esay ">
+            <div class="container-md Esay ">
                 <div class="row justify-content-center ">
 
-                    <div class="col-4 ketentuanEsay">
+                    <div class="col-4-md ketentuanEsay">
                         <h4>Ketentuan Esay Tulis Tangan:</h5>
                         <ul>
                             <li>Minimal 2 Halaman & Maksimal 4 Halaman</li>
@@ -128,7 +128,7 @@
                         </ul>
 
                     </div>
-                    <div class="col-4 isiEsay">
+                    <div class="col-4-md isiEsay">
                         <h4>Isi Esay:</h4>
                         <ul>
                             <li>Perkenalkan diri anda (Kelebihan & kekurangan, serta cara mengatasai kekurangan)</li>
