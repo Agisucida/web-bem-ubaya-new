@@ -100,12 +100,12 @@
                 <p class="alert alert-danger">{{ $err }}</p>
                 @endforeach
                 @endif
-              <form action="loginAction" method="post">
+              <form action="/loginAction" method="post">
                     @csrf
                     <div class="form-group">
                         <div class= "row text-center">
                       <label for="nrp" class="row text-center">NRP</label>
-                      <input class="form-control input-sm" type="text" id="nrp" name="nrp" value="{{ old('nrp') }}"/><br/>
+                      <input class="form-control input-sm" type="text" id="nama" name="nama" value="{{ old('nama') }}"/><br/>
                       <span style="color:red">@error('nrp'){{ $message }} @enderror</span>
                         </div>
                     </div>

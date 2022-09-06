@@ -11,18 +11,27 @@ class LoginController extends Controller
     public function authenticate(Request $request)
     {
         $credentials = $request->validate([
-            'nrp' => ['required'],
+            'nama' => ['required'],
             'password' => ['required'],
         ]);
-
-        if (Auth::attempt($credentials)) {
+        // dd(Auth::attempt($credentials));
+        if(Auth::attempt($credentials)){
             $request->session()->regenerate();
-
-            return redirect()->intended('admin');
+            // dd($request->session()->regenerate());
+            return redirect()->intended('/admin');
         }
-
         return back()->withErrors([
-            'nrp' => 'The provided credentials do not match our records.',
-        ]);
+                 'nrp' => 'The provided credentials do not match our records.',
+            ]);
+
+        // if (Auth::attempt($credentials)) {
+        //     $request->session()->regenerate();
+
+        //     return redirect()->intended('admin');
+        // }
+
+        // return back()->withErrors([
+        //     'nrp' => 'The provided credentials do not match our records.',
+        // ]);
     }
 }

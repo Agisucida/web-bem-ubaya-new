@@ -73,11 +73,11 @@ Route::get('/admin', function () {
 });
 Route::get('crud', [LaravelCrud::class, 'index']);
 Route::post('add', [LaravelCrud::class, 'add']);
-Route::get('admin', [LaravelCrud::class, 'show'])->name('admin');
+Route::get('admin', [LaravelCrud::class, 'show'])->middleware('auth');;
 
 Route::get('daftar', [LaravelCrud::class, 'daftar'])->name('daftar');
 Route::post('daftar', [LaravelCrud::class, 'daftar_action'])->name('daftar.action');
 Route::get('daftarAdmin', [LaravelCrud::class, 'daftarAdmin'])->name('daftarAdmin');
 Route::post('daftarAdmin', [LaravelCrud::class, 'daftarAdmin_action'])->name('daftarAdmin.action');
 Route::get('login', [LaravelCrud::class, 'login'])->name('login');
-Route::post('loginAction', [LoginController::class, 'authenticate'])->name('loginaction');
+Route::post('loginAction', [LoginController::class, 'authenticate']);

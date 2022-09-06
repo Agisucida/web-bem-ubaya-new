@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Hash;
 
 class LaravelCrud extends Controller
 {
@@ -142,7 +143,7 @@ public function daftarAdmin(){
             'nrp'=>$request->input('nrp'),
             'fakultas'=>$request->input('fakultas'),
             'kementrian'=>$request->input('kementrian'),
-            'password'=>$request->input('password'),
+            'password'=>Hash::make($request->input('password')),
         ]);
 
         if($query){
