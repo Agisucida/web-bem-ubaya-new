@@ -15,7 +15,7 @@
     </style>
     <script src="js/jquery.vide.js"></script>
     <title> BEM-US</title>
-    <link rel="icon" type="image/png" sizes="20x20" href="img/Logo.png">
+    <link rel="icon" type="image/png" sizes="20x20" href="img/Logo.webp">
   </head>
   <body>
     <div class="glass">
@@ -26,7 +26,7 @@
             <nav class="navbar navbar-expand-lg navbar-dark">
               <div id="Navbar" class="container sticky-md-top">
                 <a
-                  ><img src="img/logoBEM.png" alt="" width="30" style="margin-right: 10px;"/>BEM
+                  ><img src="img/logoBEM.webp" alt="" width="30" style="margin-right: 10px;"/>BEM
                   Universitas Surabaya</a>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -100,7 +100,7 @@
                 <div data-aos="fade-up" data-aos-delay="600"></div>
               </div>
               <div class="col-lg-6 hero-img" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="300">
-                <img src="img/Logo.png" width="480px" class="img-fluid" alt="" />
+                <img src="img/Logo.webp" width="480px" class="img-fluid" alt="" />
               </div>
             </div>
           </div>
@@ -116,7 +116,7 @@
               <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-5 mb-lg-0">
                   <div class="card" data-aos="fade-up-right" data-aos-duration="1500">
-                    <img src="img/logo UG.png" class="card-img-top" alt="..." />
+                    <img src="img/logo UG.webp" class="card-img-top" alt="..." />
                     <div class="card-body">
                       <h5 class="card-title text-light fw-bold" style="text-shadow: 10px 10px 30px black">Ubaya Games 2022</h5>
 
@@ -126,7 +126,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-5 mb-lg-0">
                   <div class="card" data-aos="fade-up" data-aos-delay="150" data-aos-duration="1500">
-                    <img src="img/Logo UEL.jpg" class="card-img-top" alt="..." />
+                    <img src="img/Logo UEL.webp" class="card-img-top" alt="..." />
                     <div class="card-body">
                       <h5 class="card-title text-light fw-bold" style="text-shadow: 10px 10px 30px black">Ubaya Esport League S2</h5>
 
@@ -136,7 +136,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-5 mb-lg-0">
                   <div class="card" data-aos="fade-up-left" data-aos-delay="200" data-aos-duration="1500">
-                    <img src="img/logo earth day.jpg" class="card-img-top" alt="..." />
+                    <img src="img/logo earth day.webp" class="card-img-top" alt="..." />
                     <div class="card-body">
                       <h5 class="card-title text-light fw-bold" style="text-shadow: 10px 10px 30px black">Earth Day</h5>
 
@@ -148,7 +148,7 @@
               <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-5 mb-lg-0">
                   <div class="card" data-aos="fade-up-right" data-aos-duration="1500">
-                    <img src="img/logo Ufest.png" class="card-img-top" alt="..." />
+                    <img src="img/logo Ufest.webp" class="card-img-top" alt="..." />
                     <div class="card-body">
                       <h5 class="card-title text-light fw-bold" style="text-shadow: 10px 10px 30px black">United Festival</h5>
 
@@ -158,7 +158,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-5 mb-lg-0">
                   <div class="card" data-aos="fade-up" data-aos-delay="150" data-aos-duration="1500">
-                    <img src="img/logo nationFest.png" class="card-img-top" alt="..." />
+                    <img src="img/logo nationFest.webp" class="card-img-top" alt="..." />
                     <div class="card-body">
                       <h5 class="card-title text-light fw-bold" style="text-shadow: 10px 10px 30px black">Nation Fest 2022</h5>
 
@@ -168,7 +168,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-5 mb-lg-0">
                   <div class="card" data-aos="fade-up-left" data-aos-delay="200" data-aos-duration="1500">
-                    <img src="img/logo ecc.png" class="card-img-top" alt="..." />
+                    <img src="img/logo ecc.webp" class="card-img-top" alt="..." />
                     <div class="card-body">
                       <h5 class="card-title text-light fw-bold">The Enchanted Ceremony</h5>
 
@@ -189,7 +189,7 @@
           <div id="UKM" class="container-md">
             <div class="row justify-content-center">
               <div class="col-md-4 p-md-0 infologo" data-aos="fade-up-right" data-aos-duration="1500" data-aos-offset="200">
-                <img src="img/Logo.png" class="img img-fluid m-sm-5" alt="" />
+                <img src="img/Logo.webp" class="img img-fluid m-sm-5" alt="" />
               </div>
               <div class="col-md-6 text-md-start info" data-aos="fade-up-right" data-aos-duration="1000" data-aos-offset="200">
                 <p ><strong>
@@ -218,7 +218,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6">
-            <h3><img src="img/Logo.png " width="60" alt="" />BEM Universitas Surabaya</h3>
+            <h3><img src="img/Logo.webp " width="60" alt="" />BEM Universitas Surabaya</h3>
           </div>
         </div>
         <div class="social-links">

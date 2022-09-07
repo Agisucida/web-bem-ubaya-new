@@ -20,7 +20,7 @@
     </style>
     <script src="js/jquery.vide.js"></script>
     <title> BEM-US</title>
-    <link rel="icon" type="image/png" sizes="20x20" href="img/Logo.png">
+    <link rel="icon" type="image/png" sizes="20x20" href="img/Logo.webp">
     <style>
         thead{
             background-color: yellow;
@@ -46,7 +46,7 @@
             <nav class="navbar navbar-expand-lg navbar-dark">
               <div id="Navbar" class="container sticky-md-top">
                 <a
-                  ><img src="img/logoBEM.png" alt="" width="30" style="margin-right: 10px;"/>BEM
+                  ><img src="img/logoBEM.webp" alt="" width="30" style="margin-right: 10px;"/>BEM
                   Universitas Surabaya</a>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -259,7 +259,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6">
-            <h3><img src="img/Logo.png " width="60" alt="" />BEM Universitas Surabaya</h3>
+            <h3><img src="img/Logo.webp " width="60" alt="" />BEM Universitas Surabaya</h3>
           </div>
         </div>
         <div class="social-links">

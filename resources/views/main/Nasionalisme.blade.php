@@ -11,7 +11,7 @@
     <title>NASIONALISME</title>
     <link rel="stylesheet" href="styles/owl.carousel.min.css" />
     <link rel="stylesheet" href="styles/owl.theme.default.min.css" />
-    <link rel="icon" type="image/png" sizes="20x20" href="img/NASIONALISME POTEH-14.png">
+    <link rel="icon" type="image/png" sizes="20x20" href="img/NASIONALISME POTEH-14.webp">
   </head>
   <body>
     <div class="Mendagri">
@@ -20,7 +20,7 @@
         <div class="Navbar">
           <nav class="navbar navbar-expand-lg navbar-dark">
             <div id="Navbar" class="container sticky-md-top">
-              <a ><img src="img/logoBEM.png" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
+              <a ><img src="img/logoBEM.webp" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -80,7 +80,7 @@
             </div>
 
             <div class="col-lg-6" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="150">
-              <img src="img/NASIONALISME POTEH-14.png" alt="" style="width: 13rem" />
+              <img src="img/NASIONALISME POTEH-14.webp" alt="" style="width: 13rem" />
             </div>
           </div>
         </div>
@@ -95,7 +95,7 @@
               <div class="col-md-3" data-aos="fade-down" data-aos-duration="1500">
                 <div class="card text-white mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/Albert Christian Meliangan, 120121252, Menteri Nasionalisme.JPG.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/Albert Christian Meliangan, 120121252, Menteri Nasionalisme.webp.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Menteri</h5>
@@ -115,7 +115,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="300">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/NASIONALISME POTEH-14.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/NASIONALISME POTEH-14.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -133,7 +133,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="400">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/NASIONALISME POTEH-14.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/NASIONALISME POTEH-14.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -151,7 +151,7 @@
               <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="500">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/NASIONALISME POTEH-14.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/NASIONALISME POTEH-14.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -169,7 +169,7 @@
               <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="600">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/NASIONALISME POTEH-14.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/NASIONALISME POTEH-14.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -233,107 +233,107 @@
         <h2>Gallery</h2>
         <div class="owl-carousel owl-theme">
           <div class="item">
-            <img src="img/Nation1.JPG" alt="" />
+            <img src="img/Nation1.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Nation2.JPG" alt="" />
+            <img src="img/Nation2.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Nation3.JPG" alt="" />
+            <img src="img/Nation3.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Nation4.JPG" alt="" />
+            <img src="img/Nation4.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Nation5.JPG" alt="" />
+            <img src="img/Nation5.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Nation6.JPG" alt="" />
+            <img src="img/Nation6.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Nation7.JPG" alt="" />
+            <img src="img/Nation7.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Nation8.jpg" alt="" />
+            <img src="img/Nation8.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Nation9.jpg" alt="" />
+            <img src="img/Nation9.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Nation10.jpg" alt="" />
+            <img src="img/Nation10.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Nation11.jpg" alt="" />
+            <img src="img/Nation11.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Nation12.jpg" alt="" />
+            <img src="img/Nation12.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Nation13.jpg" alt="" />
+            <img src="img/Nation13.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Nation14.png" alt="" />
+            <img src="img/Nation14.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Nation15.png" alt="" />
+            <img src="img/Nation15.webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/nationfest2022(1).jpg" alt="" />
+            <img src="img/nationfest2022(1).webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/nationfest2022(2).jpg" alt="" />
+            <img src="img/nationfest2022(2).webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/nationfest2022(3).jpg" alt="" />
+            <img src="img/nationfest2022(3).webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/nationfest2022(4).jpg" alt="" />
+            <img src="img/nationfest2022(4).webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/nationfest2022(5).jpg" alt="" />
+            <img src="img/nationfest2022(5).webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/nationfest2022(6).jpg" alt="" />
+            <img src="img/nationfest2022(6).webp" alt="" />
             <figcaption class="figure-caption text-white">NationFest 2022</figcaption>
 
           </div>
@@ -382,7 +382,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6">
-            <h3><img src="img/Logo.png " width="60" alt="" />BEM Universitas Surabaya</h3>
+            <h3><img src="img/Logo.webp " width="60" alt="" />BEM Universitas Surabaya</h3>
           </div>
         </div>
         <div class="social-links">

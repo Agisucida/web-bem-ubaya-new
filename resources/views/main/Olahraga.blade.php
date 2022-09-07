@@ -11,7 +11,7 @@
     <title>OLAHRAGA</title>
     <link rel="stylesheet" href="styles/owl.carousel.min.css" />
     <link rel="stylesheet" href="styles/owl.theme.default.min.css" />
-    <link rel="icon" type="image/png" sizes="20x20" href="img/olahraga.png">
+    <link rel="icon" type="image/png" sizes="20x20" href="img/olahraga.webp">
   </head>
   <body>
     <div class="Mendagri">
@@ -20,7 +20,7 @@
         <div class="Navbar">
           <nav class="navbar navbar-expand-lg navbar-dark">
             <div id="Navbar" class="container sticky-md-top">
-              <a ><img src="img/logoBEM.png" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
+              <a ><img src="img/logoBEM.webp" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -81,7 +81,7 @@
             </div>
 
             <div class="col-md-6" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="150">
-              <img src="img/olahraga.png" alt=""/>
+              <img src="img/olahraga.webp" alt=""/>
             </div>
           </div>
         </div>
@@ -99,7 +99,7 @@
               <div class="col-md-3" data-aos="fade-down" data-aos-duration="1500">
                 <div class="card text-white mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/Gerald Tanzil_120120227_Mentri Olahraga.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/Gerald Tanzil_120120227_Mentri Olahraga.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Menteri</h5>
@@ -119,7 +119,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="300">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/olahraga.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/olahraga.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -137,7 +137,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="400">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/olahraga.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/olahraga.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -155,7 +155,7 @@
               <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="500">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/olahraga.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/olahraga.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -175,7 +175,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="400">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/olahraga.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/olahraga.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -193,7 +193,7 @@
               <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="500">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/olahraga.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/olahraga.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -280,198 +280,198 @@
         <h2>Gallery</h2>
         <div class="owl-carousel owl-theme">
           <div class="item">
-            <img src="img/UEL 1.JPG" alt="" />
+            <img src="img/UEL 1.webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 1</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/UEL 2.jpg" alt="" />
+            <img src="img/UEL 2.webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 1</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/UEL 5.png" alt="" />
+            <img src="img/UEL 5.webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 1</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/UEL 8.png" alt="" />
+            <img src="img/UEL 8.webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 1</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/UEL 10.png" alt="" />
+            <img src="img/UEL 10.webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 1</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/UEL 12.png" alt="" />
+            <img src="img/UEL 12.webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 1</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/UEL 19.png" alt="" />
+            <img src="img/UEL 19.webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 1</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/UEL 20.png" alt="" />
+            <img src="img/UEL 20.webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 1</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/caster 1.JPG" alt="" />
+            <img src="img/caster 1.webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 1</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Caster 3.JPG" alt="" />
+            <img src="img/Caster 3.webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 1</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/juara1.png" alt="" />
+            <img src="img/juara1.webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 1</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/juara2.png" alt="" />
+            <img src="img/juara2.webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 1</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/juara3.png" alt="" />
+            <img src="img/juara3.webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 1</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/uels2(1).jpg" alt="" />
+            <img src="img/uels2(1).webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 2</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/uels2(2).jpg" alt="" />
+            <img src="img/uels2(2).webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 2</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/uels2(3).jpg" alt="" />
+            <img src="img/uels2(3).webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 2</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/uels2(4).jpg" alt="" />
+            <img src="img/uels2(4).webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 2</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/uels2(5).jpg" alt="" />
+            <img src="img/uels2(5).webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 2</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/uels2(6).jpg" alt="" />
+            <img src="img/uels2(6).webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 2</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/uels2(7).jpg" alt="" />
+            <img src="img/uels2(7).webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 2</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/uels2(8).jpg" alt="" />
+            <img src="img/uels2(8).webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 2</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/uels2(9).jpg" alt="" />
+            <img src="img/uels2(9).webp" alt="" />
             <figcaption class="figure-caption text-white">UEL Season 2</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug1.jpg" alt="" />
+            <img src="img/ug1.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug2.jpg" alt="" />
+            <img src="img/ug2.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug3.jpg" alt="" />
+            <img src="img/ug3.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug4.jpg" alt="" />
+            <img src="img/ug4.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug5.jpg" alt="" />
+            <img src="img/ug5.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug6.jpg" alt="" />
+            <img src="img/ug6.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug7.jpg" alt="" />
+            <img src="img/ug7.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug8.jpg" alt="" />
+            <img src="img/ug8.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug9.jpg" alt="" />
+            <img src="img/ug9.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug10.jpg" alt="" />
+            <img src="img/ug10.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug11.jpg" alt="" />
+            <img src="img/ug11.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug12.jpg" alt="" />
+            <img src="img/ug12.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug13.jpg" alt="" />
+            <img src="img/ug13.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug14.jpg" alt="" />
+            <img src="img/ug14.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
 
           <div class="item">
-            <img src="img/ug16.png" alt="" />
+            <img src="img/ug16.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug17.png" alt="" />
+            <img src="img/ug17.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/ug18.png" alt="" />
+            <img src="img/ug18.webp" alt="" />
             <figcaption class="figure-caption text-white">Ubaya Games 2022</figcaption>
 
 
@@ -523,7 +523,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6">
-            <h3><img src="img/Logo.png " width="60" alt="" />BEM Universitas Surabaya</h3>
+            <h3><img src="img/Logo.webp " width="60" alt="" />BEM Universitas Surabaya</h3>
           </div>
         </div>
         <div class="social-links">

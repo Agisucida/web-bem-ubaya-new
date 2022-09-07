@@ -15,7 +15,7 @@
     </style>
     <script src="js/jquery.vide.js"></script>
     <title> BEM-US</title>
-    <link rel="icon" type="image/png" sizes="20x20" href="img/Logo.png">
+    <link rel="icon" type="image/png" sizes="20x20" href="img/Logo.webp">
   </head>
   <body>
     <div class="glass">
@@ -26,7 +26,7 @@
             <nav class="navbar navbar-expand-lg navbar-dark">
               <div id="Navbar" class="container sticky-md-top">
                 <a
-                  ><img src="img/logoBEM.png" alt="" width="30" style="margin-right: 10px;"/>BEM
+                  ><img src="img/logoBEM.webp" alt="" width="30" style="margin-right: 10px;"/>BEM
                   Universitas Surabaya</a>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

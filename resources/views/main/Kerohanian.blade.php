@@ -12,7 +12,7 @@
     <title>KEROHANIAN</title>
     <link rel="stylesheet" href="styles/owl.carousel.min.css" />
     <link rel="stylesheet" href="styles/owl.theme.default.min.css" />
-    <link rel="icon" type="image/png" sizes="20x20" href="img/MENROH-05.png">
+    <link rel="icon" type="image/png" sizes="20x20" href="img/MENROH-05.webp">
   </head>
   <body>
     <div class="Mendagri">
@@ -21,7 +21,7 @@
         <div class="Navbar">
           <nav class="navbar navbar-expand-lg navbar-dark">
             <div id="Navbar" class="container sticky-md-top">
-              <a ><img src="img/logoBEM.png" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
+              <a ><img src="img/logoBEM.webp" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -79,7 +79,7 @@
               <a class="btn btn-outline-warning fw-bold" href="#rohani" role="button">Info Lebih Lanjut</a>
             </div>
             <div class="col-lg-6" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="150">
-              <img src="img/MENROH-05.png" alt="" style="width: 15rem" />
+              <img src="img/MENROH-05.webp" alt="" style="width: 15rem" />
             </div>
           </div>
         </div>
@@ -97,7 +97,7 @@
               <div class="col-md-3" data-aos="fade-down" data-aos-duration="1500">
                 <div class="card text-white mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/Christopher Andrew Tjoeanda, 160320004, Menteri Kerohanian.jpg.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/Christopher Andrew Tjoeanda, 160320004, Menteri Kerohanian.webp.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Menteri</h5>
@@ -117,7 +117,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="400">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/MENROH-05.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/MENROH-05.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -135,7 +135,7 @@
               <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="500">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/MENROH-05.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/MENROH-05.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -153,7 +153,7 @@
               <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="600">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/MENROH-05.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/MENROH-05.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -173,7 +173,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="300">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/MENROH-05.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/MENROH-05.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -191,7 +191,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="400">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/MENROH-05.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/MENROH-05.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -278,43 +278,43 @@
         <h2>Gallery</h2>
         <div class="owl-carousel owl-theme">
             <div class="item">
-                <img src="img/ufest1.jpg" alt="" />
+                <img src="img/ufest1.webp" alt="" />
                 <figcaption class="figure-caption text-white">United Festival 2022</figcaption>
             </div>
             <div class="item">
-                <img src="img/ufest2.jpg" alt="" />
+                <img src="img/ufest2.webp" alt="" />
                 <figcaption class="figure-caption text-white">United Festival 2022</figcaption>
             </div>
             <div class="item">
-                <img src="img/ufest3.jpg" alt="" />
+                <img src="img/ufest3.webp" alt="" />
                 <figcaption class="figure-caption text-white">United Festival 2022</figcaption>
             </div>
             <div class="item">
-                <img src="img/ufest4.jpg" alt="" />
+                <img src="img/ufest4.webp" alt="" />
                 <figcaption class="figure-caption text-white">United Festival 2022</figcaption>
             </div>
             <div class="item">
-                <img src="img/ufest5.jpg" alt="" />
+                <img src="img/ufest5.webp" alt="" />
                 <figcaption class="figure-caption text-white">United Festival 2022</figcaption>
             </div>
             <div class="item">
-                <img src="img/ufest6.jpg" alt="" />
+                <img src="img/ufest6.webp" alt="" />
                 <figcaption class="figure-caption text-white">United Festival 2022</figcaption>
             </div>
             <div class="item">
-                <img src="img/ufest7.jpg" alt="" />
+                <img src="img/ufest7.webp" alt="" />
                 <figcaption class="figure-caption text-white">United Festival 2022</figcaption>
             </div>
             <div class="item">
-                <img src="img/ufest8.jpg" alt="" />
+                <img src="img/ufest8.webp" alt="" />
                 <figcaption class="figure-caption text-white">United Festival 2022</figcaption>
             </div>
             <div class="item">
-                <img src="img/ufest9.jpg" alt="" />
+                <img src="img/ufest9.webp" alt="" />
                 <figcaption class="figure-caption text-white">United Festival 2022</figcaption>
             </div>
             <div class="item">
-                <img src="img/ufest10.jpg" alt="" />
+                <img src="img/ufest10.webp" alt="" />
                 <figcaption class="figure-caption text-white">United Festival 2022</figcaption>
             </div>
 
@@ -362,7 +362,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6">
-            <h3><img src="img/Logo.png " width="60" alt="" />BEM Universitas Surabaya</h3>
+            <h3><img src="img/Logo.webp " width="60" alt="" />BEM Universitas Surabaya</h3>
           </div>
         </div>
         <div class="social-links">

@@ -11,7 +11,7 @@
     <title>SOSPENGMAS</title>
     <link rel="stylesheet" href="styles/owl.carousel.min.css" />
     <link rel="stylesheet" href="styles/owl.theme.default.min.css" />
-    <link rel="icon" type="image/png" sizes="20x20" href="img/SOSPENGMAS-11.png">
+    <link rel="icon" type="image/png" sizes="20x20" href="img/SOSPENGMAS-11.webp">
   </head>
   <body>
     <div class="Mendagri">
@@ -20,7 +20,7 @@
         <div class="Navbar">
           <nav class="navbar navbar-expand-lg navbar-dark">
             <div id="Navbar" class="container sticky-md-top">
-              <a ><img src="img/logoBEM.png" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
+              <a ><img src="img/logoBEM.webp" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -80,7 +80,7 @@
             </div>
 
             <div class="col-lg-6" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="150">
-              <img src="img/SOSPENGMAS-11.png" alt="" style="width: 24rem" />
+              <img src="img/SOSPENGMAS-11.webp" alt="" style="width: 24rem" />
             </div>
           </div>
         </div>
@@ -98,7 +98,7 @@
               <div class="col-md-3" data-aos="fade-down" data-aos-duration="1500">
                 <div class="card text-white mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/Efendy, Kania Angela_150120098_Menteri Sospengmas .jpg.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/Efendy, Kania Angela_150120098_Menteri Sospengmas .webp.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Menteri</h5>
@@ -118,7 +118,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="400">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/SOSPENGMAS-11.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/SOSPENGMAS-11.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -136,7 +136,7 @@
               <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="500">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/SOSPENGMAS-11.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/SOSPENGMAS-11.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -154,7 +154,7 @@
               <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="600">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/SOSPENGMAS-11.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/SOSPENGMAS-11.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -174,7 +174,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="300">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/SOSPENGMAS-11.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/SOSPENGMAS-11.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -192,7 +192,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="400">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/SOSPENGMAS-11.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/SOSPENGMAS-11.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -270,112 +270,112 @@
         <h2>Gallery</h2>
         <div class="owl-carousel owl-theme">
           {{-- <div class="item">
-            <img src="img/Sahur1.png" alt="" />
+            <img src="img/Sahur1.webp" alt="" />
             <figcaption class="figure-caption text-white">Sahur On The Road</figcaption>
 
           </div> --}}
           <div class="item">
-            <img src="img/suar1.jpg" alt="" />
+            <img src="img/suar1.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/suar2.jpg" alt="" />
+            <img src="img/suar2.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar3.JPG" alt="" />
+            <img src="img/Suar3.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar4.JPG" alt="" />
+            <img src="img/Suar4.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar5.JPG" alt="" />
+            <img src="img/Suar5.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar6.JPG" alt="" />
+            <img src="img/Suar6.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar7.JPG" alt="" />
+            <img src="img/Suar7.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar8.JPG" alt="" />
+            <img src="img/Suar8.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar9.JPG" alt="" />
+            <img src="img/Suar9.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar10.JPG" alt="" />
+            <img src="img/Suar10.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar11.JPG" alt="" />
+            <img src="img/Suar11.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar12.JPG" alt="" />
+            <img src="img/Suar12.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar13.JPG" alt="" />
+            <img src="img/Suar13.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar14.JPG" alt="" />
+            <img src="img/Suar14.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar15.png" alt="" />
+            <img src="img/Suar15.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar16.png" alt="" />
+            <img src="img/Suar16.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar17.png "alt="" />
+            <img src="img/Suar17.webp "alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/Suar18.png" alt="" />
+            <img src="img/Suar18.webp" alt="" />
             <figcaption class="figure-caption text-white">Suar Literasi</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/earth1.jpg" alt="" />
+            <img src="img/earth1.webp" alt="" />
             <figcaption class="figure-caption text-white">Earth Day</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/earth2.jpg" alt="" />
+            <img src="img/earth2.webp" alt="" />
             <figcaption class="figure-caption text-white">Earth Day</figcaption>
 
           </div>
           <div class="item">
-            <img src="img/earth3.jpg" alt="" />
+            <img src="img/earth3.webp" alt="" />
             <figcaption class="figure-caption text-white">Earth Day</figcaption>
 
           </div>
@@ -424,7 +424,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6">
-            <h3><img src="img/Logo.png " width="60" alt="" />BEM Universitas Surabaya</h3>
+            <h3><img src="img/Logo.webp " width="60" alt="" />BEM Universitas Surabaya</h3>
           </div>
         </div>
         <div class="social-links">

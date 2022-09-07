@@ -11,7 +11,7 @@
     <title>LUAR NEGERI</title>
     <link rel="stylesheet" href="styles/owl.carousel.min.css" />
     <link rel="stylesheet" href="styles/owl.theme.default.min.css" />
-    <link rel="icon" type="image/png" sizes="20x20" href="img/KEMENLU-07.png">
+    <link rel="icon" type="image/png" sizes="20x20" href="img/KEMENLU-07.webp">
   </head>
   <body>
     <div class="Mendagri">
@@ -20,7 +20,7 @@
         <div class="Navbar">
           <nav class="navbar navbar-expand-lg navbar-dark">
             <div id="Navbar" class="container sticky-md-top">
-              <a ><img src="img/logoBEM.png" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
+              <a ><img src="img/logoBEM.webp" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -77,7 +77,7 @@
               <a class="btn btn-outline-warning" href="#luarnegeri" role="button">INFO LEBIH LANJUT</a>
             </div>
             <div class="col-lg-6" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="150">
-              <img src="img/KEMENLU-07.png" alt="" style="width: 20rem" />
+              <img src="img/KEMENLU-07.webp" alt="" style="width: 20rem" />
             </div>
           </div>
         </div>
@@ -95,7 +95,7 @@
               <div class="col-md-3" data-aos="fade-down" data-aos-duration="1500">
                 <div class="card text-white mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/Melisa Rusli_130220095_Luar Negeri.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/Melisa Rusli_130220095_Luar Negeri.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Menteri</h5>
@@ -115,7 +115,7 @@
                 <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="400">
                   <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                     <div class="card-header">
-                      <img src="img/KEMENLU-07.png" class="img-fluid rounded-circle" alt="1" />
+                      <img src="img/KEMENLU-07.webp" class="img-fluid rounded-circle" alt="1" />
                     </div>
                     <div class="card-body">
                       <h5 class="card-title text-dark">Staff</h5>
@@ -133,7 +133,7 @@
                 <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="500">
                   <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                     <div class="card-header">
-                      <img src="img/KEMENLU-07.png" class="img-fluid rounded-circle" alt="1" />
+                      <img src="img/KEMENLU-07.webp" class="img-fluid rounded-circle" alt="1" />
                     </div>
                     <div class="card-body">
                       <h5 class="card-title text-dark">Staff</h5>
@@ -151,7 +151,7 @@
                 <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="600">
                   <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                     <div class="card-header">
-                      <img src="img/KEMENLU-07.png" class="img-fluid rounded-circle" alt="1" />
+                      <img src="img/KEMENLU-07.webp" class="img-fluid rounded-circle" alt="1" />
                     </div>
                     <div class="card-body">
                       <h5 class="card-title text-dark">Staff</h5>
@@ -171,7 +171,7 @@
                 <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="400">
                   <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                     <div class="card-header">
-                      <img src="img/KEMENLU-07.png" class="img-fluid rounded-circle" alt="1" />
+                      <img src="img/KEMENLU-07.webp" class="img-fluid rounded-circle" alt="1" />
                     </div>
                     <div class="card-body">
                       <h5 class="card-title text-dark">Staff</h5>
@@ -189,7 +189,7 @@
                 <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="500">
                   <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                     <div class="card-header">
-                      <img src="img/KEMENLU-07.png" class="img-fluid rounded-circle" alt="1" />
+                      <img src="img/KEMENLU-07.webp" class="img-fluid rounded-circle" alt="1" />
                     </div>
                     <div class="card-body">
                       <h5 class="card-title text-dark">Staff</h5>
@@ -207,7 +207,7 @@
                 <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="600">
                   <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                     <div class="card-header">
-                      <img src="img/KEMENLU-07.png" class="img-fluid rounded-circle" alt="1" />
+                      <img src="img/KEMENLU-07.webp" class="img-fluid rounded-circle" alt="1" />
                     </div>
                     <div class="card-body">
                       <h5 class="card-title text-dark">Staff</h5>
@@ -323,159 +323,159 @@
         <h2>Gallery</h2>
         <div class="owl-carousel owl-theme">
           <div class="item">
-            <img src="img/UFO1.JPG" alt="" />
+            <img src="img/UFO1.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/UFO1.JPG" alt="" />
+            <img src="img/UFO1.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/UFO2.JPG" alt="" />
+            <img src="img/UFO2.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/UFO3.JPG" alt="" />
+            <img src="img/UFO3.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/UFO4.JPG" alt="" />
+            <img src="img/UFO4.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/UFO5.JPG" alt="" />
+            <img src="img/UFO5.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/UFO6.JPG" alt="" />
+            <img src="img/UFO6.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/UFO7.JPG" alt="" />
+            <img src="img/UFO7.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/UFO8.JPG" alt="" />
+            <img src="img/UFO8.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/UFO9.JPG" alt="" />
+            <img src="img/UFO9.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/UFO10.JPG" alt="" />
+            <img src="img/UFO10.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/UFO11.JPG" alt="" />
+            <img src="img/UFO11.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/UFO12.JPG" alt="" />
+            <img src="img/UFO12.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/UFO13.JPG" alt="" />
+            <img src="img/UFO13.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/UFO1.JPG" alt="" />
+            <img src="img/UFO1.webp" alt="" />
             <figcaption class="figure-caption text-white">UFO 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img/Sepik1.png" alt="" />
+            <img src="img/Sepik1.webp" alt="" />
             <figcaption class="figure-caption text-white">SURABAYA EPIK</figcaption>
           </div>
           <div class="item">
-            <img src="img/Sepik2.png" alt="" />
+            <img src="img/Sepik2.webp" alt="" />
             <figcaption class="figure-caption text-white">SURABAYA EPIK</figcaption>
           </div>
           <div class="item">
-            <img src="img/Sepik3.png" alt="" />
+            <img src="img/Sepik3.webp" alt="" />
             <figcaption class="figure-caption text-white">SURABAYA EPIK</figcaption>
           </div>
           <div class="item">
-            <img src="img/Stuban1.png" alt="" />
+            <img src="img/Stuban1.webp" alt="" />
             <figcaption class="figure-caption text-white">Studi Banding</figcaption>
           </div>
           <div class="item">
-            <img src="img/Stuban2.png" alt="" />
+            <img src="img/Stuban2.webp" alt="" />
             <figcaption class="figure-caption text-white">Studi Banding</figcaption>
           </div>
           <div class="item">
-            <img src="img/Stuban3.png" alt="" />
+            <img src="img/Stuban3.webp" alt="" />
             <figcaption class="figure-caption text-white">Studi Banding</figcaption>
           </div>
           <div class="item">
-            <img src="img/Stuban4.png" alt="" />
+            <img src="img/Stuban4.webp" alt="" />
             <figcaption class="figure-caption text-white">Studi Banding</figcaption>
           </div>
           <div class="item">
-            <img src="img/Stuban5.png" alt="" />
+            <img src="img/Stuban5.webp" alt="" />
             <figcaption class="figure-caption text-white">Studi Banding</figcaption>
           </div>
           <div class="item">
-            <img src="img/Stuban6.png" alt="" />
+            <img src="img/Stuban6.webp" alt="" />
             <figcaption class="figure-caption text-white">Studi Banding</figcaption>
           </div>
           <div class="item">
-            <img src="img/Stuban7.png" alt="" />
+            <img src="img/Stuban7.webp" alt="" />
             <figcaption class="figure-caption text-white">Studi Banding</figcaption>
           </div>
           <div class="item">
-            <img src="img/Stuban8.png" alt="" />
+            <img src="img/Stuban8.webp" alt="" />
             <figcaption class="figure-caption text-white">Studi Banding</figcaption>
           </div>
           <div class="item">
-            <img src="img/Stuban9.png" alt="" />
+            <img src="img/Stuban9.webp" alt="" />
             <figcaption class="figure-caption text-white">Studi Banding</figcaption>
           </div>
           <div class="item">
-            <img src="img/Stuban10.png" alt="" />
+            <img src="img/Stuban10.webp" alt="" />
             <figcaption class="figure-caption text-white">Studi Banding</figcaption>
           </div>
           <div class="item">
-            <img src="img/Stuban11.png" alt="" />
+            <img src="img/Stuban11.webp" alt="" />
             <figcaption class="figure-caption text-white">Studi Banding</figcaption>
           </div>
           <div class="item">
-            <img src="img/Stuban12.png" alt="" />
+            <img src="img/Stuban12.webp" alt="" />
             <figcaption class="figure-caption text-white">Studi Banding</figcaption>
           </div>
           <div class="item">
-            <img src="img/kunjungan kerja UPH1.png" alt="" />
+            <img src="img/kunjungan kerja UPH1.webp" alt="" />
             <figcaption class="figure-caption text-white">Kunjungan Kerja UPH</figcaption>
           </div>
           <div class="item">
-            <img src="img/kunjungan kerja UPH2.png" alt="" />
+            <img src="img/kunjungan kerja UPH2.webp" alt="" />
             <figcaption class="figure-caption text-white">Kunjungan Kerja UPH</figcaption>
           </div>
           <div class="item">
-            <img src="img/kunjungan kerja UPH3.png" alt="" />
+            <img src="img/kunjungan kerja UPH3.webp" alt="" />
             <figcaption class="figure-caption text-white">Kunjungan Kerja UPH</figcaption>
           </div>
           <div class="item">
-            <img src="img/kunjungan kerja UPH4.png" alt="" />
+            <img src="img/kunjungan kerja UPH4.webp" alt="" />
             <figcaption class="figure-caption text-white">Kunjungan Kerja UPH</figcaption>
           </div>
           <div class="item">
-            <img src="img/Sepik2022(1).jpg" alt="" />
+            <img src="img/Sepik2022(1).webp" alt="" />
             <figcaption class="figure-caption text-white">Sepik 2022</figcaption>
           </div>
           <div class="item">
-            <img src="img/Sepik2022(2).jpg" alt="" />
+            <img src="img/Sepik2022(2).webp" alt="" />
             <figcaption class="figure-caption text-white">Sepik 2022</figcaption>
           </div>
           <div class="item">
-            <img src="img/ufo 1.png" alt="" />
+            <img src="img/ufo 1.webp" alt="" />
             <figcaption class="figure-caption text-white">Ufo 2022</figcaption>
           </div>
           <div class="item">
-            <img src="img/ufo 2.png" alt="" />
+            <img src="img/ufo 2.webp" alt="" />
             <figcaption class="figure-caption text-white">Ufo 2022</figcaption>
           </div>
           <div class="item">
-            <img src="img/ufo 3.png" alt="" />
+            <img src="img/ufo 3.webp" alt="" />
             <figcaption class="figure-caption text-white">Ufo 2022</figcaption>
           </div>
 
@@ -528,7 +528,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6">
-            <h3><img src="img/Logo.png " width="60" alt="" />BEM Universitas Surabaya</h3>
+            <h3><img src="img/Logo.webp " width="60" alt="" />BEM Universitas Surabaya</h3>
           </div>
         </div>
         <div class="social-links">

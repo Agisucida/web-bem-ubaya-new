@@ -11,7 +11,7 @@
     <title>PSDM</title>
     <link rel="stylesheet" href="styles/owl.carousel.min.css" />
     <link rel="stylesheet" href="styles/owl.theme.default.min.css" />
-    <link rel="icon" type="image/png" sizes="20x20" href="img/PSDM POTEH-03.png">
+    <link rel="icon" type="image/png" sizes="20x20" href="img/PSDM POTEH-03.webp">
   </head>
   <body>
     <div class="Mendagri">
@@ -20,7 +20,7 @@
         <div class="Navbar">
           <nav class="navbar navbar-expand-lg navbar-dark">
             <div id="Navbar" class="container sticky-md-top">
-              <a ><img src="img/logoBEM.png" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
+              <a ><img src="img/logoBEM.webp" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -78,7 +78,7 @@
               <a class="btn btn-outline-warning" href="#psdm" role="button">INFO LEBIH LANJUT</a>
             </div>
             <div class="col-lg-6" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="150">
-              <img src="img/PSDM POTEH-03.png" alt="" style="width: 13rem" />
+              <img src="img/PSDM POTEH-03.webp" alt="" style="width: 13rem" />
             </div>
           </div>
         </div>
@@ -96,7 +96,7 @@
               <div class="col-md-3" data-aos="fade-down" data-aos-duration="1500">
                 <div class="card text-white mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/Stephanie Erlia Nata, 120120030, Menteri PSDM.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/Stephanie Erlia Nata, 120120030, Menteri PSDM.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Menteri</h5>
@@ -116,7 +116,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="300">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/PSDM POTEH-03.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/PSDM POTEH-03.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -134,7 +134,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="400">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/PSDM POTEH-03.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/PSDM POTEH-03.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -152,7 +152,7 @@
               <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="500">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/PSDM POTEH-03.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/PSDM POTEH-03.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -170,7 +170,7 @@
               <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="600">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/PSDM POTEH-03.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/PSDM POTEH-03.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -264,39 +264,39 @@
         <h2>Gallery</h2>
         <div class="owl-carousel owl-theme">
           <div class="item">
-            <img src="img//Level1.png" alt="" />
+            <img src="img//Level1.webp" alt="" />
             <figcaption class="figure-caption text-white">Level Up 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img//Level2.png" alt="" />
+            <img src="img//Level2.webp" alt="" />
             <figcaption class="figure-caption text-white">Level Up 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img//Level3.png" alt="" />
+            <img src="img//Level3.webp" alt="" />
             <figcaption class="figure-caption text-white">Level Up 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img//Level4.png" alt="" />
+            <img src="img//Level4.webp" alt="" />
             <figcaption class="figure-caption text-white">Level Up 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img//Level5.png" alt="" />
+            <img src="img//Level5.webp" alt="" />
             <figcaption class="figure-caption text-white">Level Up 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img//Level6.png" alt="" />
+            <img src="img//Level6.webp" alt="" />
             <figcaption class="figure-caption text-white">Level Up 2020</figcaption>
           </div>
           <div class="item">
-            <img src="img//webinar psdm 1.png" alt="" />
+            <img src="img//webinar psdm 1.webp" alt="" />
             <figcaption class="figure-caption text-white">Webinar Psdm</figcaption>
           </div>
           <div class="item">
-            <img src="img//webinar psdm 2.png" alt="" />
+            <img src="img//webinar psdm 2.webp" alt="" />
             <figcaption class="figure-caption text-white">Webinar Psdm</figcaption>
           </div>
           <div class="item">
-            <img src="img//webinar psdm 3.png" alt="" />
+            <img src="img//webinar psdm 3.webp" alt="" />
             <figcaption class="figure-caption text-white">Webinar Psdm</figcaption>
           </div>
 
@@ -344,7 +344,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6">
-            <h3><img src="img/Logo.png " width="60" alt="" />BEM Universitas Surabaya</h3>
+            <h3><img src="img/Logo.webp " width="60" alt="" />BEM Universitas Surabaya</h3>
           </div>
         </div>
         <div class="social-links">

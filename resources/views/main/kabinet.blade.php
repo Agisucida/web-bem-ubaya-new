@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
     <title>Tentang Kabinet</title>
-    <link rel="icon" type="image/png" sizes="20x20" href="img/Logo.png">
+    <link rel="icon" type="image/png" sizes="20x20" href="img/Logo.webp">
   </head>
   <body>
     <!--Navbar-->
@@ -18,7 +18,7 @@
       <div class="Navbar">
         <nav class="navbar navbar-expand-lg navbar-dark">
           <div id="Navbar" class="container sticky-md-top">
-            <a ><img src="img/logoBEM.png" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
+            <a ><img src="img/logoBEM.webp" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
@@ -60,7 +60,7 @@
     <!-- carousel awal-->
 
     <section id="heroKabinet">
-      <img src="img/standby.png" />
+      <img src="img/standby.webp" />
       <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
 
         <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
@@ -91,7 +91,7 @@
           <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="400">
             <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
               <div class="card-header">
-                <img src="img/Gavriel Heavenly Blessing Torar_120120072.png" class="img-fluid rounded-circle" alt="1" />
+                <img src="img/Gavriel Heavenly Blessing Torar_120120072.webp" class="img-fluid rounded-circle" alt="1" />
               </div>
               <div class="card-body">
                 <h5 class="card-title text-dark">Presiden BEM-US</h5>
@@ -109,7 +109,7 @@
           <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="500">
             <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
               <div class="card-header">
-                <img src="img/Christina Maria P_120121055_Wapres.png" class="img-fluid rounded-circle" alt="1" />
+                <img src="img/Christina Maria P_120121055_Wapres.webp" class="img-fluid rounded-circle" alt="1" />
               </div>
               <div class="card-body">
                 <h5 class="card-title text-dark">Wapres BEM-US</h5>
@@ -187,14 +187,14 @@
         <div class="container-lg">
             <div class="row g-2">
               <div class="col-md-4 text-center"  data-aos="fade-up-right" data-aos-duration="1500">
-                <img src="img/SESNEG-08.png" alt="" style="width: 15rem;" class="" />
+                <img src="img/SESNEG-08.webp" alt="" style="width: 15rem;" class="" />
                 <div class="p-3 text-white">
                     <h5>Kementerian Sekretaris Negara</h5>
                     <a class="btn btn-outline-warning" href="/Sesneg" role="button">Cek Di Sini</a>
                 </div>
               </div>
               <div class="col-md-4 text-center" data-aos="fade-up"  data-aos-delay="150" data-aos-duration="1500">
-                <img src="img/KEUANGAN POTEH-04.png" alt="" style="width: 15rem;" class="" />
+                <img src="img/KEUANGAN POTEH-04.webp" alt="" style="width: 15rem;" class="" />
                 <div class="p-3 text-white ">
                     <h5>Kementerian Keuangan</h5>
                     <a class="btn btn-outline-warning" href="/keuangan" role="button">Cek Di Sini</a>
@@ -202,7 +202,7 @@
 
               </div>
               <div class="col-md-4 text-center"  data-aos="fade-up-left"  data-aos-delay="200" data-aos-duration="1500">
-                <img src="img/DAGRI-12.png" alt="" style="width:15rem;" class="" />
+                <img src="img/DAGRI-12.webp" alt="" style="width:15rem;" class="" />
                 <div class="p-3 text-white">
                     <h5>Kementerian Dalam Negeri</h5>
                     <a class="btn btn-outline-warning" href="/dagri" role="button">Cek Di Sini</a>
@@ -213,14 +213,14 @@
               <div class="container-lg">
                 <div class="row g-2">
                   <div class="col-md-4 text-center" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="250">
-                    <img src="img/KEMENLU-07.png "alt="" style="width:17rem;" class="" />
+                    <img src="img/KEMENLU-07.webp "alt="" style="width:17rem;" class="" />
                     <div class="p-3 text-white">
                         <h5>Kementerian Luar Negeri</h5>
                         <a class="btn btn-outline-warning" href="luarNegeri" role="button">Cek Di Sini</a>
                     </div>
                   </div>
                   <div class="col-md-4 text-center" data-aos="fade-up"  data-aos-delay="300" data-aos-duration="1500">
-                    <img src="img/MENROH-05.png" alt="" style="width:10rem;" class="" />
+                    <img src="img/MENROH-05.webp" alt="" style="width:10rem;" class="" />
                     <div class="p-3 text-white ">
                         <h5>Kementerian Kerohanian</h5>
                         <a class="btn btn-outline-warning" href="kerohanian" role="button">Cek Di Sini</a>
@@ -228,7 +228,7 @@
 
                   </div>
                   <div class="col-md-4 text-center"  data-aos="fade-up-left"  data-aos-delay="350" data-aos-duration="1500">
-                    <img src="img/PSDM POTEH-03.png" alt="" style="width:10rem;" class="" />
+                    <img src="img/PSDM POTEH-03.webp" alt="" style="width:10rem;" class="" />
                     <div class="p-3 text-white">
                         <h5>Kementerian PSDM</h5>
                         <a class="btn btn-outline-warning" href="/psdm" role="button">Cek Di Sini</a>
@@ -239,21 +239,21 @@
                   <div class="container-lg">
                     <div class="row g-2">
                       <div class="col-md-4 text-center" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="400">
-                        <img src="img/KOMINFO-01.png" alt="" style="width: 12rem;" class="" />
+                        <img src="img/KOMINFO-01.webp" alt="" style="width: 12rem;" class="" />
                         <div class="p-3 text-white"><h5>Kementerian KOMINFO</h5>
                           <a class="btn btn-outline-warning" href="/kominfo" role="button">Cek Di Sini</a>
                         </h5>
                         </div>
                       </div>
                       <div class="col-md-4 text-center" data-aos="fade-up"  data-aos-delay="450" data-aos-duration="1500">
-                        <img src="img/SENBUD-09.png" alt="" style="width:8rem;" class="" />
+                        <img src="img/SENBUD-09.webp" alt="" style="width:8rem;" class="" />
                         <div class="p-3 text-white"><h5>Kementerian Seni Budaya</h5>
                           <a class="btn btn-outline-warning" href="senibudaya" role="button">Cek Di Sini</a>
                         </div>
 
                       </div>
                       <div class="col-md-4 text-center"  data-aos="fade-up-left"  data-aos-delay="500" data-aos-duration="1500">
-                        <img src="img/olahraga.png" alt="" style="width:12rem;" class="" />
+                        <img src="img/olahraga.webp" alt="" style="width:12rem;" class="" />
                         <div class="p-3 text-white">
                           <h5>Kementerian Olahraga</h5>
                           <a class="btn btn-outline-warning" href="/olahraga" role="button">Cek Di Sini</a>
@@ -263,12 +263,12 @@
                       </div><div class="container-lg">
                         <div class="row g-2 justify-content-center">
                           <div class="col-md-4 text-center" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="550">
-                            <img src="img/SOSPENGMAS-11.png" alt="" style="width:10rem;" class="" />
+                            <img src="img/SOSPENGMAS-11.webp" alt="" style="width:10rem;" class="" />
                             <div class="p-3 text-white"><h5>Kementerian SOSPENGMAS</h5>
                               <a class="btn btn-outline-warning" href="/sospengmas" role="button">Cek Di Sini</a></div>
                           </div>
                           <div class="col-md-4 text-center" data-aos="fade-up"  data-aos-delay="600" data-aos-duration="1500">
-                            <img src="img/NASIONALISME POTEH-14.png" alt="" style="width:10rem;" class="" />
+                            <img src="img/NASIONALISME POTEH-14.webp" alt="" style="width:10rem;" class="" />
                             <div class="p-3 text-white"><h5>Kementerian Nasionalisme</h5>
                               <a class="btn btn-outline-warning" href="/nasionalisme" role="button">Cek Di Sini</a> </div>
                           </div>
@@ -294,7 +294,7 @@
 
         <div class="row  justify-content-center">
           <div class="col-lg-6">
-            <h3><img src="img/Logo.png "  width="60" alt="" />BEM Universitas Surabaya</h3>
+            <h3><img src="img/Logo.webp "  width="60" alt="" />BEM Universitas Surabaya</h3>
 
           </div>
         </div>

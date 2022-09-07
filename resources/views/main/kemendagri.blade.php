@@ -12,7 +12,7 @@
     <title>DALAM NEGERI</title>
     <link rel="stylesheet" href="styles/owl.carousel.min.css" />
     <link rel="stylesheet" href="styles/owl.theme.default.min.css" />
-    <link rel="icon" type="image/png" sizes="20x20" href="img/DAGRI-12.png">
+    <link rel="icon" type="image/png" sizes="20x20" href="img/DAGRI-12.webp">
   </head>
   <body>
     <div class="Mendagri">
@@ -21,7 +21,7 @@
         <div class="Navbar">
           <nav class="navbar navbar-expand-lg navbar-dark">
             <div id="Navbar" class="container sticky-md-top">
-              <a ><img src="img/logoBEM.png" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
+              <a ><img src="img/logoBEM.webp" alt="" width="30" style="margin-right: 10px;"/>BEM Universitas Surabaya</a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -75,7 +75,7 @@
                 <a class="btn btn-outline-warning" href="#dagri" role="button">INFO LEBIH LANJUT</a>
             </div>
             <div class="col-lg-6" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="150">
-              <img src="img/DAGRI-12.png" alt="" style="width: 20rem" />
+              <img src="img/DAGRI-12.webp" alt="" style="width: 20rem" />
             </div>
           </div>
         </div>
@@ -93,7 +93,7 @@
               <div class="col-md-3" data-aos="fade-down" data-aos-duration="1500">
                 <div class="card text-white mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/Gregorius Mario Eko Putro Soenario__160421066_Menteri Dalam Negeri.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/Gregorius Mario Eko Putro Soenario__160421066_Menteri Dalam Negeri.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Menteri</h5>
@@ -113,7 +113,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="400">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/DAGRI-12.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/DAGRI-12.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -131,7 +131,7 @@
               <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="500">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/DAGRI-12.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/DAGRI-12.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -149,7 +149,7 @@
               <div class="col-md-3" data-aos="fade-up-left" data-aos-duration="1500" data-aos-delay="600">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/DAGRI-12.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/DAGRI-12.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -169,7 +169,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="300">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/DAGRI-12.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/DAGRI-12.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -187,7 +187,7 @@
               <div class="col-md-3" data-aos="fade-up-right" data-aos-duration="1500" data-aos-delay="400">
                 <div class="card text-white bg-light mb-3 text-center shadow-lg" style="max-width: 18rem">
                   <div class="card-header">
-                    <img src="img/DAGRI-12.png" class="img-fluid rounded-circle" alt="1" />
+                    <img src="img/DAGRI-12.webp" class="img-fluid rounded-circle" alt="1" />
                   </div>
                   <div class="card-body">
                     <h5 class="card-title text-dark">Staff</h5>
@@ -260,79 +260,79 @@
         <h2>Gallery</h2>
         <div class="owl-carousel owl-theme">
             <div class="item">
-                <img src="img/ecc1.jpg" alt="" />
+                <img src="img/ecc1.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc2.jpg" alt="" />
+                <img src="img/ecc2.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc3.jpg" alt="" />
+                <img src="img/ecc3.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc4.jpg" alt="" />
+                <img src="img/ecc4.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc5.jpg" alt="" />
+                <img src="img/ecc5.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc6.jpg" alt="" />
+                <img src="img/ecc6.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc7.jpg" alt="" />
+                <img src="img/ecc7.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc8.jpg" alt="" />
+                <img src="img/ecc8.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc9.jpg" alt="" />
+                <img src="img/ecc9.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc10.jpg" alt="" />
+                <img src="img/ecc10.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc11.jpg" alt="" />
+                <img src="img/ecc11.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc12.jpg" alt="" />
+                <img src="img/ecc12.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc13.jpg" alt="" />
+                <img src="img/ecc13.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc15.jpg" alt="" />
+                <img src="img/ecc15.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc14.jpg" alt="" />
+                <img src="img/ecc14.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc16.jpg" alt="" />
+                <img src="img/ecc16.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc17.jpg" alt="" />
+                <img src="img/ecc17.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc18.jpg" alt="" />
+                <img src="img/ecc18.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
               <div class="item">
-                <img src="img/ecc19.jpg" alt="" />
+                <img src="img/ecc19.webp" alt="" />
                 <figcaption class="figure-caption text-white">The Enchanted Ceremony</figcaption>
               </div>
 
@@ -381,7 +381,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-6">
-            <h3><img src="img/Logo.png " width="60" alt="" />BEM Universitas Surabaya</h3>
+            <h3><img src="img/Logo.webp " width="60" alt="" />BEM Universitas Surabaya</h3>
           </div>
         </div>
         <div class="social-links">
