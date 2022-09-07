@@ -28,6 +28,10 @@ public function daftarAdmin(){
     $data['title'] = 'RegisterAdmin';
     return view('admin.registerAdmin', $data);
 }
+public function berhasilDaftar(){
+    $data['title'] = 'berhasilregis';
+    return view('admin.berhasilregis', $data);
+}
 
     public function daftar_action(Request $request){
 
@@ -92,7 +96,7 @@ public function daftarAdmin(){
 
 
         if($query){
-            return back()->with('SUKSES', 'ANDA TELAH MENDAFTAR SEBAGAI STAFF BEM-US');
+            return redirect()->route('berhasilregis');
 
         }
         else{

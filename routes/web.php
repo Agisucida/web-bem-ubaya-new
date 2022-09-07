@@ -71,6 +71,9 @@ Route::get('/registeradmin11990088uuzzjjkkikksiakwopdkdjejz-sjas', function () {
 Route::get('/admin', function () {
     return view('admin.admin');
 });
+Route::get('berhasilregister', function () {
+    return view('admin.berhasilregis');
+});
 Route::get('crud', [LaravelCrud::class, 'index']);
 Route::post('add', [LaravelCrud::class, 'add']);
 Route::get('admin', [LaravelCrud::class, 'show'])->middleware('auth');;
@@ -80,4 +83,5 @@ Route::post('daftar', [LaravelCrud::class, 'daftar_action'])->name('daftar.actio
 Route::get('daftarAdmin', [LaravelCrud::class, 'daftarAdmin'])->name('daftarAdmin');
 Route::post('daftarAdmin', [LaravelCrud::class, 'daftarAdmin_action'])->name('daftarAdmin.action');
 Route::get('login', [LaravelCrud::class, 'login'])->name('login');
+Route::get('berhasilregis', [LaravelCrud::class, 'berhasildaftar'])->name('berhasilregis');
 Route::post('loginAction', [LoginController::class, 'authenticate']);
